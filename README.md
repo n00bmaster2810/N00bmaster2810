@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satya Prakash Satyam</h1>
-<h3 align="center">A passionate developer and competitive programming enthusiast from India</h3>
+<h3 align="center">A passionate developer and competitive programming enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n00bmaster2810&label=Profile%20views&color=0e75b6&style=plastic" alt="n00bmaster2810" /> </p>
 
