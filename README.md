@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n00bmaster2810&label=Profile%20views&color=0e75b6&style=plastic" alt="n00bmaster2810" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itsme_satty" target="blank"><img src="https://img.shields.io/twitter/follow/itsme_satty?logo=twitter&style=for-the-badge" alt="itsme_satty" /></a> </p>
-- My portfolio website <a href="https://satyaprakashsatyam.vercel.app/" target="blank">Take a look</a>
+<p align="left"> <a href="https://twitter.com/itsme_satty" target="_blank"><img src="https://img.shields.io/twitter/follow/itsme_satty?logo=twitter&style=for-the-badge" alt="itsme_satty" /></a> </p>
+
+- My portfolio website <a href="https://satyaprakashsatyam.vercel.app/" target="_blank">Take a look</a>
 
 - 🌱 I’m currently learning **NodeJs, Express and MongoDB**
 
@@ -12,15 +13,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsme_satty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsme_satty" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satya-prakash-satyam-9a97a0183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satya-prakash-satyam-9a97a0183" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/satya_2810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="satya_2810" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/n00bmaster2810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="n00bmaster2810" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/godfather9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="godfather9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/n00bmaster2810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="n00bmaster2810" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@satya2810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@satya2810" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/satty9509" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="satty9509" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/sps2810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="sps2810" height="30" width="40" /></a>
+<a href="https://twitter.com/itsme_satty" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsme_satty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satya-prakash-satyam-9a97a0183" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satya-prakash-satyam-9a97a0183" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/satya_2810" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="satya_2810" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/n00bmaster2810" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="n00bmaster2810" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/godfather9" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="godfather9" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/n00bmaster2810" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="n00bmaster2810" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@satya2810" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@satya2810" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/satty9509" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="satty9509" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/sps2810" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="sps2810" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
