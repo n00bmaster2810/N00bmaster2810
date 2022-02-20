@@ -6,8 +6,9 @@
 <p align="left"> <a href="https://twitter.com/jethiya_jaagja" target="_blank"><img src="https://img.shields.io/twitter/follow/jethiya_jaagja?logo=twitter&style=for-the-badge" alt="itsme_satty" /></a> </p>
 
 - My portfolio website <a href="https://satyaprakashsatyam.vercel.app/" target="_blank">Take a look</a>
+- I'm currently learning developing softwares by DotNet and C#.
 
-- 🌱 I’m currently learning **NodeJs, Express and MongoDB**
+- 🌱 I’m well experienced in **NodeJs, Express, MongoDB, ReactJS**
 
 - 📫 How to reach me **satty9509@gmail.com**
 
